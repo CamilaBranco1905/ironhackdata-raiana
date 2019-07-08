@@ -1,0 +1,9 @@
+O jogo rodou!
+O código está bem limpo e fácil de entender. A função interagir poderia ter sido separada em mais funções.
+O uso de dicionários para as salas e listas para os objetos foi muito bem pensado.
+Bom uso de booleanos.
+Erros de input do usuário geraram erros que travam o código, pode ser resolvido usando conceitos da aula "error handling".
+A parte de escolhas entre explorar e interagir poderia ser eliminada mas o código ficou bem mais simples e enxuto com a opção.
+Não consegui colocar o jogo para rodar novamente com o "sys.exit" as variáveis não foram resetadas para o status do começo do jogo,
+pode ser resolvido com uma função ou redefinição direta das variáveis.
+ 

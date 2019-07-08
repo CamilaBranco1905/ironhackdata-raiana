@@ -1,0 +1,7 @@
+O jogo rodou e eu não econtrei nenhum input de usuario que causava "crash" do game.
+O código poderia ficar um milhão de vezes mais elegante usando list comprehensions e funções lambdas mas não administrei bem o tempo
+no fim de semana e não pude atualizar os conteúdos mais recentes.
+O jogo está bem chato na questão de história, também era para ser desenvolvida durante o fim de semana.
+No geral foi um projeto bem estimulante que dava para ser feito de diferentes formas com os conhecimentos adquiridos ao longo da semana,
+o que foi muito bom exemplo de aplicação dos conceitos, passei a entender muitos conceito de aula pensando em como inseri-los no meu jogo.
+Adorei!
